@@ -1,0 +1,10 @@
+﻿Metric,Value
+Total Rows Processed,612
+Exact Duplicates Removed,18
+Missing Customer Email Imputed,48
+Missing Province Imputed,12
+Invalid Quantities Found,3
+Mismatched Transaction Amounts,50
+Invalid Order Statuses,5
+Outliers Capped (Non-Promotion),19
+Late Loads (>24 Hours),74
